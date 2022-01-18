@@ -1,4 +1,4 @@
-setwd("C:/Users/sarah/OneDrive - University of Reading/Documents/abrupt_Holocene/")
+setwd(".../spel_abrupt_Holocene")
 
 library(dplyr)
 library(strucchange)

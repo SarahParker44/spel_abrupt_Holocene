@@ -1,7 +1,6 @@
 ## Constrain 11.1-11.4 kyr signals
 
-#setwd("C:/Users/sarah/OneDrive - University of Reading/Documents/abrupt_Holocene/speleothem_8_2_kyr_signals/")
-setwd("C:/Users/ph805612/OneDrive - University of Reading/Documents/abrupt_Holocene/")
+setwd(".../spel_abrupt_Holocene")
 
 library(dplyr)
 library(strucchange)
@@ -9,7 +8,7 @@ library(ggplot2)
 library(RMySQL)
 
 # connect to SISAL database
-mydb <- dbConnect(MySQL(), user = "root", password = "BevRed921", dbname = "sisal_v2", 
+mydb <- dbConnect(MySQL(), user = "root", password = "", dbname = "sisal_v2", 
                   host = "localhost")
 
 # load data

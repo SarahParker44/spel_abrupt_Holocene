@@ -1,6 +1,6 @@
 ### Plot 8.2 ka signals
 
-setwd(".../speleothem_8_2_kyr_signals")
+setwd(".../spel_abrupt_Holocene")
 
 library(rgdal)
 library(dplyr)

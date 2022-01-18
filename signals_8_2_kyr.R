@@ -1,6 +1,6 @@
 ## Constrain 8.2 kyr signals 
 
-setwd(".../speleothem_8_2_kyr")
+setwd(".../spel_abrupt_Holocene")
 
 library(dplyr)
 library(strucchange)

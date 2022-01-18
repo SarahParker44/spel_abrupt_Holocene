@@ -9,8 +9,8 @@ The code in this repository uses the SISAL (Speleothem Isotopes Synthesis and An
 
 ## Data generated
 Our synthesis of the 8.2 ka analysis, including presence of an isotope excursion, anomaly, timing and duration are saved in the following files: 
-XX.csv
-XX.csv
+anom_table.csv
+spel_nosignal_82.csv
 
 ## Structure of the respository
 ### Holocene abrupt event detection

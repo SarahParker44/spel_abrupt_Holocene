@@ -1,7 +1,6 @@
 ## Constrain 1.5-1.8 kyr signals
 
-#setwd("C:/Users/sarah/OneDrive - University of Reading/Documents/abrupt_Holocene/speleothem_8_2_kyr_signals/")
-setwd("C:/Users/ph805612/OneDrive - University of Reading/Documents/abrupt_Holocene/")
+setwd(".../spel_abrupt_Holocene")
 
 library(dplyr)
 library(strucchange)

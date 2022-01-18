@@ -1,6 +1,6 @@
 ### Detecting abrupt events in Holocene speleothem records
 
-setwd(".../speleothem_8_2_kyr_signals/")
+setwd(".../spel_abrupt_Holocene/")
 
 library(dplyr)
 library(strucchange)

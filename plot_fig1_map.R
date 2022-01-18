@@ -1,6 +1,6 @@
 ## plot fig 1: map
 
-setwd(".../speleothem_8_2_kyr_signals")
+setwd(".../spel_abrupt_Holocene")
 
 library(rgdal)
 library(ggplot2)

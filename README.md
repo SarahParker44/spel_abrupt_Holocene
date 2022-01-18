@@ -5,7 +5,12 @@ This github repository provides the code used to produce results and figures fro
 Contact: Sarah Parker, s.parker@pgr.reading.ac.uk
 
 ## Data used
-The code in this repository uses the SISAL (Speleothem Isotopes Synthesis and Analysis) database, available from XX. Database is in MySQL and R connects to this using the RMySQL package. 
+The code in this repository uses the SISAL (Speleothem Isotopes Synthesis and Analysis) database, available from https://researchdata.reading.ac.uk/256/. Database is in MySQL and R connects to this using the RMySQL package. 
+
+## Data generated
+Our synthesis of the 8.2 ka analysis, including presence of an isotope excursion, anomaly, timing and duration are saved in the following files: 
+XX.csv
+XX.csv
 
 ## Structure of the respository
 ### Holocene abrupt event detection

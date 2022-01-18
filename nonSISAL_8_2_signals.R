@@ -1,12 +1,12 @@
 ### breakpoint analysis for non SISAL records
 
-setwd(".../speleothem_8_2_kyr_signals")
+setwd(".../spel_abrupt_Holocene")
 
 library(tidyr)
 library(dplyr)
 library(strucchange)
 
-## Load data
+## Load data (downloaded from NOAA paleoclimate repo)
 Padre <- read.csv("Padre.csv"); colnames(Padre)[1] <- "Age"; Padre$site_name <- "Padre"
 Paixao <- read.csv("Paixao.csv"); colnames(Paixao)[1] <- "Age"; Paixao$site_name <- "Paixao"
 Tigre_perdido <- read.csv("Tigre_Perdido.csv"); colnames(Tigre_perdido)[1] <- "Age"; Tigre_perdido$site_name <- "Tigre Perdido"
